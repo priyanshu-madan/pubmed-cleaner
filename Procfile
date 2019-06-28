@@ -1,1 +1,1 @@
-web: gunicorn s3_upload:app
+web: gunicorn upload:app
